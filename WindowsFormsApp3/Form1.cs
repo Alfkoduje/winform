@@ -21,5 +21,10 @@ namespace WindowsFormsApp3
         {
             MessageBox.Show("Nowa wiadomość");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello world");
+        }
     }
 }
