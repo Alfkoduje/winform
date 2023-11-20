@@ -9,5 +9,6 @@ namespace WindowsFormsApp3
     class Calculator
     {
         public int Result { get; set; }
+        public int State { get; set; }
     }
 }
